@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi hello hw r u what u doing
+=======
+hi hello hw ru 
+hi hello hw r u
+hi bro how r u 
+>>>>>>> 265238d182d170fa2ceac5c2a6454edc8ee1b2c6
